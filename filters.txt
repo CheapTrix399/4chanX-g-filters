@@ -89,5 +89,18 @@
 /is a joke/ig
 /just installed/ig
 /switch to/ig
+/switching to/ig
 /you will/ig
 /freetard/ig
+/is this any good/ig
+/is it good/ig
+/name a more/ig
+/stop using/ig
+/still using/ig
+/which distro/ig
+/explain yourself/ig
+/all rise for/ig
+/went wrong/ig
+/give me a reason/ig
+/give me reason/ig
+/come home/ig
