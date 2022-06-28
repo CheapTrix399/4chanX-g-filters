@@ -104,3 +104,9 @@
 /give me a reason/ig
 /give me reason/ig
 /come home/ig
+/what is the best/ig
+/what's the best/ig
+/fall for/ig
+/itoddler/ig
+/amd/ig
+/intel/ig
