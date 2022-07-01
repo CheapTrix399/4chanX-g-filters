@@ -110,3 +110,8 @@
 /itoddler/ig
 /amd/ig
 /intel/ig
+/i am forgotten/ig
+/blocks your path/ig
+/how do i/ig
+/mean by this/ig
+/no excuse to/ig
