@@ -115,3 +115,7 @@
 /how do i/ig
 /mean by this/ig
 /no excuse to/ig
+/why should i/ig
+/why do you/ig
+/good reason/ig
+/is it worth/ig
