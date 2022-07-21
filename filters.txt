@@ -119,3 +119,6 @@
 /why do you/ig
 /good reason/ig
 /is it worth/ig
+/much better/ig
+/settle this/ig
+/never looked back/ig
