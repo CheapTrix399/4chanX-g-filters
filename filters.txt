@@ -122,3 +122,6 @@
 /much better/ig
 /settle this/ig
 /never looked back/ig
+/shill/ig
+/brave/ig
+/eternal debate/ig
