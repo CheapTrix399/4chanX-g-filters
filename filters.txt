@@ -10,7 +10,7 @@
 /stop winning/ig
 /are they still relevant/ig
 /good alternative/ig
-/why would anyone/ig
+/((why would)|does|has) any(one|body)/ig
 /why are you not yet/ig
 /this kills the/ig
 /why do instead of/ig
@@ -34,8 +34,7 @@
 /are technology/ig
 /pinnacle of/ig
 /talk me out of/ig
-/this makes the/ig
-/this destroys the/ig
+/this (makes|destroys) the/ig
 /the great debate/ig
 /is still/ig
 /for me,? it\'?s/ig
@@ -48,14 +47,15 @@
 /i prefer to/ig
 /is there anything wrong/ig
 /final redpill/ig
+/redpill me/ig
 /year of the/ig
 /is it bad that i dont/ig
 /how do cope/ig
 /this (filters|enrages)/ig
 /finally arrived/ig
 /anything else is a/ig
-/it\'?s over/ig
-/we won/ig
+/it\'?s (over|happening)/ig
+/(.*) won/ig
 /is all you need/ig
 /why haven\'?t you/ig
 /name one/ig
@@ -70,13 +70,12 @@
 /name a better/ig
 /pajeet/ig
 /rajeesh/ig
-/guts/ig
-/desktop thread/ig
+/\/?g\/?uts/ig
 /how will we respond/ig
 /sisters/ig
 /rust/ig
 /faggot/ig
-/nigger/ig
+/ni\/?g\/?ger/ig
 /tranny/ig
 /kike/ig
 /why don\'?t you/ig
@@ -91,7 +90,7 @@
 /is (this|it) ?(any)? good/ig
 /name a more/ig
 /(stop|still) using/ig
-/(which|best) distro/ig
+/(which|best) (distro|one)/ig
 /explain yourself/ig
 /all rise for/ig
 /went wrong/ig
@@ -123,3 +122,12 @@
 /any good/ig
 /why yes/ig
 /how did you know/ig
+/is (.*) a meme/ig
+/(.*) thread/ig
+/took ?(this)? from you/ig
+/how can (.*) be/ig
+/white man/ig
+/like you wouldn't believe/ig
+/peak performance/ig
+/b-but/ig
+/m-muh/ig
