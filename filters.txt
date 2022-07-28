@@ -8,7 +8,7 @@
 /we lost/ig
 /we got too cocky/ig
 /stop winning/ig
-/are they still relevant in/ig
+/are they still relevant/ig
 /good alternative/ig
 /why would anyone/ig
 /why are you not yet/ig
@@ -26,8 +26,7 @@
 /your choice/ig
 /shill me/ig
 /what went wrong/ig
-/why arent you/ig
-/why aren\'t you/ig
+/why aren\'?t you/ig
 /how exactly is this supposed to/ig
 /the final/ig
 /will never go back to/ig
@@ -39,7 +38,7 @@
 /this destroys the/ig
 /the great debate/ig
 /is still/ig
-/for me, it\'s/ig
+/for me,? it\'?s/ig
 /should i just switch/ig
 /what is the better/ig
 /what is the and why is it the/ig
@@ -48,26 +47,24 @@
 /cures your/ig
 /i prefer to/ig
 /is there anything wrong/ig
-/the final redpill/ig
-/the year of the/ig
+/final redpill/ig
+/year of the/ig
 /is it bad that i dont/ig
 /how do cope/ig
-/this filters/ig
-/this enrages/ig
+/this (filters|enrages)/ig
 /finally arrived/ig
 /anything else is a/ig
-/its over/ig
-/it\'s over/ig
+/it\'?s over/ig
 /we won/ig
 /is all you need/ig
-/why haven\'t you/ig
+/why haven\'?t you/ig
 /name one/ig
 /nakadashi/ig
 /cunny/ig
-/just (works|werks)/ig
+/just w(o|e)rks/ig
 /ngmi/ig
 /the absolute state of/ig
-/explain why you aren\'t/ig
+/explain why you aren\'?t/ig
 /recover from/ig
 /thank you/ig
 /name a better/ig
@@ -82,33 +79,27 @@
 /nigger/ig
 /tranny/ig
 /kike/ig
-/why don\'t you/ig
+/why don\'?t you/ig
 /seethe/ig
 /kneel/ig
 /is better than/ig
 /is a joke/ig
 /just installed/ig
-/switch to/ig
-/switching to/ig
+/switch(ing)? to/ig
 /you will/ig
 /freetard/ig
-/is this any good/ig
-/is it good/ig
+/is (this|it) ?(any)? good/ig
 /name a more/ig
-/stop using/ig
-/still using/ig
-/which distro/ig
+/(stop|still) using/ig
+/(which|best) distro/ig
 /explain yourself/ig
 /all rise for/ig
 /went wrong/ig
-/give me a reason/ig
-/give me reason/ig
+/give me ?a? reason/ig
 /come home/ig
-/what is the best/ig
-/what's the best/ig
-/fall for/ig
+/what( is|\'?s) the best/ig
+/f(a|e)ll for/ig
 /itoddler/ig
-/amd/ig
 /intel/ig
 /i am forgotten/ig
 /blocks your path/ig
@@ -132,4 +123,3 @@
 /any good/ig
 /why yes/ig
 /how did you know/ig
-/best distro/ig
