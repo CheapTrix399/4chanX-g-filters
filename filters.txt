@@ -33,7 +33,7 @@
 /will never go back to/ig
 /no alternative to/ig
 /are technology/ig
-/the pinnacle of/ig
+/pinnacle of/ig
 /talk me out of/ig
 /this makes the/ig
 /this destroys the/ig
@@ -125,3 +125,11 @@
 /shill/ig
 /brave/ig
 /eternal debate/ig
+/is he/ig
+/mogs/ig
+/oh no/ig
+/a(y)*md/ig
+/any good/ig
+/why yes/ig
+/how did you know/ig
+/best distro/ig
