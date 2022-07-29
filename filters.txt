@@ -1,6 +1,7 @@
-/mac/ig
+/mac /ig
+/apple /ig
 /iphone/ig
-/trans/ig
+/trans /ig
 /crt/ig
 /let me guess/ig
 /now that the dust has settled/ig
@@ -83,7 +84,7 @@
 /kneel/ig
 /is better than/ig
 /is a joke/ig
-/just installed/ig
+/just (installed|use)/ig
 /switch(ing)? to/ig
 /you will/ig
 /freetard/ig
@@ -124,10 +125,16 @@
 /how did you know/ig
 /is (.*) a meme/ig
 /(.*) thread/ig
-/took ?(this)? from you/ig
+/took(.*) ((from you)|(our))/ig
 /how can (.*) be/ig
 /white man/ig
-/like you wouldn't believe/ig
+/like you wouldn\'?t believe/ig
 /peak performance/ig
+/install (linux|windows)/ig
 /b-but/ig
 /m-muh/ig
+/stick(ing)? with/ig
+/say something nice about/ig
+/you can\'?t just/ig
+/(.)* is the future/ig
+#/in a nutshell/ig
