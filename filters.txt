@@ -39,10 +39,10 @@
 /the great debate/ig
 /is still/ig
 /for me,? it\'?s/ig
-/should i just switch/ig
+/just switch(ed)?/ig
 /what is the better/ig
 /what is the and why is it the/ig
-/why do people/ig
+/why (do|are|would) (people|they|you)/ig
 /do really/ig
 /cures your/ig
 /i prefer to/ig
@@ -51,8 +51,7 @@
 /redpill me/ig
 /year of the/ig
 /is it bad that i dont/ig
-/how do cope/ig
-/this (filters|enrages)/ig
+/this (filters|enrages|confuses|frightens)/ig
 /finally arrived/ig
 /anything else is a/ig
 /it\'?s (over|happening)/ig
@@ -85,7 +84,7 @@
 /is better than/ig
 /is a joke/ig
 /just (installed|use)/ig
-/switch(ing)? to/ig
+/switch(ing|ed)? to/ig
 /you will/ig
 /freetard/ig
 /is (this|it) ?(any)? good/ig
@@ -103,11 +102,10 @@
 /intel/ig
 /i am forgotten/ig
 /blocks your path/ig
-/how do i/ig
+/how do (i|you|cope)/ig
 /mean by this/ig
 /no excuse to/ig
 /why should i/ig
-/why do you/ig
 /good reason/ig
 /is it worth/ig
 /much better/ig
@@ -125,8 +123,8 @@
 /how did you know/ig
 /is (.*) a meme/ig
 /(.*) thread/ig
-/took(.*) ((from you)|(our))/ig
-/how can (.*) be/ig
+/took(.*) (from you|our)/ig
+/how can (.*) (be|compete)/ig
 /white man/ig
 /like you wouldn\'?t believe/ig
 /peak performance/ig
@@ -137,4 +135,13 @@
 /say something nice about/ig
 /you can\'?t just/ig
 /(.)* is the future/ig
+/reminder that/ig
+/dethrone/ig
+/ruins your/ig
+/(thoughts|opinions)\?/ig
+/i\'?(m| am) looking for/ig
+/sir(s)?/ig
+/xrctfy/ig
+/orbterry/ig
+/prove me wrong/ig
 #/in a nutshell/ig
