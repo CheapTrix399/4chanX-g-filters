@@ -1,5 +1,5 @@
 /mac /ig
-/apple /ig
+/apple/ig
 /iphone/ig
 /trans /ig
 /crt/ig
@@ -17,7 +17,7 @@
 /why do instead of/ig
 /have you taken the pill/ig
 /what am i in for/ig
-/this is the power of/ig
+/this(.*)is the power of/ig
 /best for/ig
 /is it really that/ig
 /tell me why/ig
@@ -54,7 +54,7 @@
 /this (filters|enrages|confuses|frightens)/ig
 /finally arrived/ig
 /anything else is a/ig
-/it\'?s (over|happening)/ig
+/it\'?s (over|happening|settled)/ig
 /(.*) won/ig
 /is all you need/ig
 /why haven\'?t you/ig
@@ -85,7 +85,7 @@
 /is a joke/ig
 /just (installed|use)/ig
 /switch(ing|ed)? to/ig
-/you will/ig
+/you (w|v)ill/ig
 /freetard/ig
 /is (this|it) ?(any)? good/ig
 /name a more/ig
@@ -122,7 +122,7 @@
 /why yes/ig
 /how did you know/ig
 /is (.*) a meme/ig
-/(.*) thread/ig
+#/(.*) thread/ig
 /took(.*) (from you|our)/ig
 /how can (.*) (be|compete)/ig
 /white man/ig
@@ -144,4 +144,11 @@
 /xrctfy/ig
 /orbterry/ig
 /prove me wrong/ig
+/itt /ig
+/is enough/ig
+/(no|is there( a)?) reason (for|to)/ig
+/should( not|n\'?t)? use/ig
+/\/g\/ approved/ig
+/change my mind/ig
+/why is this allowed/ig
 #/in a nutshell/ig
