@@ -13,9 +13,8 @@
 /good alternative/ig
 /((why would)|does|has) any(one|body)/ig
 /why are you not yet/ig
-/this kills the/ig
 /why do instead of/ig
-/have you taken the pill/ig
+/(take(n)?|took) the(.*) pill/ig
 /what am i in for/ig
 /this(.*)is the power of/ig
 /best for/ig
@@ -26,7 +25,6 @@
 /fell for the/ig
 /your choice/ig
 /shill me/ig
-/what went wrong/ig
 /why aren\'?t you/ig
 /how exactly is this supposed to/ig
 /the final/ig
@@ -35,12 +33,12 @@
 /are technology/ig
 /pinnacle of/ig
 /talk me out of/ig
-/this (makes|destroys) the/ig
+/this (makes|destroys|kills) the/ig
 /the great debate/ig
 /is still/ig
 /for me,? it\'?s/ig
 /just switch(ed)?/ig
-/what is the better/ig
+/wh(at|ich) is (the)? ?better/ig
 /what is the and why is it the/ig
 /why (do|are|would) (people|they|you)/ig
 /do really/ig
@@ -55,7 +53,7 @@
 /finally arrived/ig
 /anything else is a/ig
 /it\'?s (over|happening|settled)/ig
-/(.*) won/ig
+/(.*) w(on|ins)/ig
 /is all you need/ig
 /why haven\'?t you/ig
 /name one/ig
@@ -93,7 +91,7 @@
 /(which|best) (distro|one)/ig
 /explain yourself/ig
 /all rise for/ig
-/went wrong/ig
+/went (so)? ?(wrong|right)/ig
 /give me ?a? reason/ig
 /come home/ig
 /what( is|\'?s) the best/ig
@@ -125,17 +123,18 @@
 #/(.*) thread/ig
 /took(.*) (from you|our)/ig
 /how can (.*) (be|compete)/ig
-/white man/ig
+/white ma(n|le)/ig
 /like you wouldn\'?t believe/ig
 /peak performance/ig
 /install (linux|windows)/ig
 /b-but/ig
 /m-muh/ig
-/stick(ing)? with/ig
+/stick(ing)? (with|to)/ig
 /say something nice about/ig
 /you can\'?t just/ig
 /(.)* is the future/ig
 /reminder that/ig
+/remind me/ig
 /dethrone/ig
 /ruins your/ig
 /(thoughts|opinions)\?/ig
@@ -144,11 +143,21 @@
 /xrctfy/ig
 /orbterry/ig
 /prove me wrong/ig
-/itt /ig
+/itt\:? /ig
 /is enough/ig
 /(no|is there( a)?) reason (for|to)/ig
 /should( not|n\'?t)? use/ig
-/\/g\/ approved/ig
+/\/g\/ (approved|recommended)/ig
+/recommend me/ig
 /change my mind/ig
 /why is this allowed/ig
+/nothing? person(e|a)l/ig
+/distro for/ig
+/adblock.*(theft|steal|piracy)/i
+/blocking.*(theft|steal|piracy)/i
+/niece/ig
+/does(n\'?t| not) have th(ese|is) problems?/ig
+/the year is/ig
+/face it/ig
+/mouse\.jpg/ig
 #/in a nutshell/ig
